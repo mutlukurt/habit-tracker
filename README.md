@@ -1,5 +1,7 @@
 # Growth Up - Habit Tracker
 
+**[🚀 Live Demo](https://high-performance-fro-x09y.bolt.host)**
+
 A modern, responsive landing page for Growth Up, a habit tracking application focused on the neuroscience of happiness. Built with cutting-edge web technologies for optimal performance and user experience.
 
 ## Technology Stack
